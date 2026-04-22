@@ -1,0 +1,2 @@
+sequenceNo,scenario,objectName,objectValue,executedValue,keywordIdentifier,scope,frameLocatorsPriority
+0,Scenario: To test the login function,username,"xpath://*[@id=""username""]","xpath://*[@id=""username""]",69e845b160be71e7366bba35,application,
